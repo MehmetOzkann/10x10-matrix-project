@@ -1,0 +1,3 @@
+﻿  matris_odev_2.cpp
+C:\Users\mehmet\source\repos\matris_odev_2\matris_odev_2.cpp(63,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  matris_odev_2.vcxproj -> C:\Users\mehmet\source\repos\matris_odev_2\x64\Debug\matris_odev_2.exe
